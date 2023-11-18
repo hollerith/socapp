@@ -1,0 +1,45 @@
+{
+  "userExperience": {
+    "overallRating": 4.0,
+    "easeOfUse": 4.2,
+    "enjoyment": 3.8,
+    "satisfaction": 4.1,
+    "retentionRate": 0.78
+  },
+  "performance": {
+    "averageLoadTime": 3.0 seconds,
+    "averageResponseTime": 0.07 seconds,
+    "memoryUsage": 80 MB,
+    "crashRate": 0.03%
+  },
+  "engagement": {
+    "dailyActiveUsers": 330 million,
+    "monthlyActiveUsers": 390 million,
+    "averageSessionDuration": 20 minutes,
+    "openFrequency": 12 times per day
+  },
+  "conversion": {
+    "inAppPurchases": 0.3%,
+    "newsletterSignups": 1.5%,
+    "accountCreations": 2%
+  },
+  "appStoreRatings": {
+    "appleAppStore": 4.6,
+    "googlePlayStore": 4.4
+  },
+  "churnRate": 0.22%,
+  "arpu": $1.50,
+  "cltv": $6.00,
+  "costPerAcquisition": $7.00,
+  "virality": {
+    "organicReferralRate": 6%,
+    "referralProgramConversionRate": 3%
+  },
+  "marketShare": {
+    "global": 7%,
+    "us": 15%,
+    "europe": 12%,
+    "asia": 10%
+  },
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter_bird.svg/220px-Twitter_bird.svg.png"
+}
