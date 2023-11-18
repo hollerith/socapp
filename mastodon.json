@@ -1,0 +1,45 @@
+{
+  "userExperience": {
+    "overallRating": 4.8,
+    "easeOfUse": 4.9,
+    "enjoyment": 4.7,
+    "satisfaction": 4.8,
+    "retentionRate": 0.90
+  },
+  "performance": {
+    "averageLoadTime": 2.2 seconds,
+    "averageResponseTime": 0.05 seconds,
+    "memoryUsage": 40 MB,
+    "crashRate": 0.002%
+  },
+  "engagement": {
+    "dailyActiveUsers": 15 million,
+    "monthlyActiveUsers": 25 million,
+    "averageSessionDuration": 35 minutes,
+    "openFrequency": 18 times per day
+  },
+  "conversion": {
+    "inAppPurchases": 0.2%,
+    "newsletterSignups": 1%,
+    "accountCreations": 2.5%
+  },
+  "appStoreRatings": {
+    "appleAppStore": 4.9,
+    "googlePlayStore": 4.8
+  },
+  "churnRate": 0.10%,
+  "arpu": $1.00,
+  "cltv": $4.00,
+  "costPerAcquisition": $3.00,
+  "virality": {
+    "organicReferralRate": 12%,
+    "referralProgramConversionRate": 6%
+  },
+  "marketShare": {
+    "global": 0.5%,
+    "us": 5%,
+    "europe": 10%,
+    "asia": 2%
+  },
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Mastodon_logo.svg/220px-Mastodon_logo.svg.png"
+}
