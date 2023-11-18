@@ -1,0 +1,44 @@
+{
+  "userExperience": {
+    "overallRating": 4.6,
+    "easeOfUse": 4.8,
+    "enjoyment": 4.7,
+    "satisfaction": 4.7,
+    "retentionRate": 0.85
+  },
+  "performance": {
+    "averageLoadTime": 1.8 seconds,
+    "averageResponseTime": 0.04 seconds,
+    "memoryUsage": 70 MB,
+    "crashRate": 0.005%
+  },
+  "engagement": {
+    "dailyActiveUsers": 1 billion,
+    "monthlyActiveUsers": 1.5 billion,
+    "averageSessionDuration": 45 minutes,
+    "openFrequency": 25 times per day
+  },
+  "conversion": {
+    "inAppPurchases": 1%,
+    "newsletterSignups": 3%,
+    "accountCreations": 5%
+  },
+  "appStoreRatings": {
+    "appleAppStore": 4.9,
+    "googlePlayStore": 4.8
+  },
+  "churnRate": 0.15%,
+  "arpu": $3.00,
+  "cltv": $12.00,
+  "costPerAcquisition": $4.00,
+  "virality": {
+    "organicReferralRate": 15%,
+    "referralProgramConversionRate": 7%
+  },
+  "marketShare": {
+    "global": 13%,
+    "us": 32%,
+    "europe": 20%,
+    "asia": 25%
+  }
+}
